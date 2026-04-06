@@ -5,7 +5,7 @@
 #Author: Akshay Jalnela
 #Date: 31/03/2026
 #
-#Version: V1
+#Version: V2
 #
 #This script will report the AWS resource usage
 ###########################
